@@ -1,4 +1,4 @@
-# PATHFINDING AND MAZE GENERATION VISUALIZER
+## PATHFINDING  VISUALIZER
 
 Graphical User Interface built using ReactJS to visualize Pathfinding Algorithms.
 
